@@ -9,7 +9,7 @@
 
     <frameset cols="15%,*">
         <frame src="left.php" name="left" noresize></frame>
-        <frame src="right.php" name="right"></frame>
+        <frame src="right.php" name="right" noresize></frame>
     </frameset>
 </frameset>
 </html>
